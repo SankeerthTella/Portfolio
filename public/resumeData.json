@@ -5,8 +5,8 @@
     "description":"I'm pursuing my Master's Degree in Computer & Information Sciences from SUNY - University at Buffalo with concentration in Software & Information Systems",
     "image":"profilepic.png",
     "bio":"Highly motivated graduate with a strong foundation in software engineering and application development. Entusiastic and adept  at creating innovative products using cutting-edge technologies.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "tellasankeerthe@gmail.com",
+    "contactmessage":"",
+    "email": "tellasankeerth@gmail.com",
     "phone": "716-770-8204",
     "address":{
       "street":"25 Callodine ave",
@@ -14,8 +14,8 @@
       "state":"New York",
       "zip": "14226"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"https://drive.google.com/file/d/1AyC6q6XuBquiJPxJrUOWuzDtMQ0zfUqu/view?usp=sharing",
+    "website": "",
+    "resumedownload":"",
     "social":[
      
       {
@@ -37,7 +37,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"",
     "education":[
       {
         "school":"University at Buffalo - SUNY",
