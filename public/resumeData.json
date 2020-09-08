@@ -132,6 +132,12 @@
         "url":"https://github.com/SankeerthTella/TwitterSearchEngine"
       },
       {
+        "title":"Social Media Mining for Public Health Monitoring(#SMM4H)",
+        "category":"Python, React, NLP, Tableau, AWS",
+        "image":"p1.png",
+        "url":"https://github.com/SankeerthTella/SocialMediaMining-HealthMonitoring"
+      },
+      {
         "title":"Distributed Messenger Application",
         "category":"Java Socket Programming, Android Processes and Threads",
         "image":"p1.png",
